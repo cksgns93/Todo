@@ -5,9 +5,9 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DBUtil {
-	private static final String DATABASE_URL = "jdbc:mysql://10.113.116.52:13306/user04?serverTimezone=Asia/Seoul&useSSL=false";
-	private static final String DATABASE_UESR = "user04";
-	private static final String DATABASE_PASSWORD = "user04";
+	private static final String DATABASE_URL = "";
+	private static final String DATABASE_UESR = "";
+	private static final String DATABASE_PASSWORD = "";
 	private static final String DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
 
 	static {
